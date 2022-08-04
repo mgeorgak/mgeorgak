@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mgeorgak
-- 👀 I’m interested in data analytics & data sciencr
+- 👀 I’m interested in data analytics & data science
 - 🌱 I’m currently learning python and spark 
 - 💞️ I’m looking to collaborate on data analytics and data science projects
 - 📫 How to reach me: 
